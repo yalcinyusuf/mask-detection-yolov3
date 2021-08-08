@@ -6,7 +6,7 @@ Data
 
 https://drive.google.com/file/d/1H6n_FjW442kyOQuonxfk7soSumKlSxDm/view?usp=sharing
 
-Yukarıdaki klasörü indiriniz ve cfg dosyası yanına koyunuz.
+Yukarıdaki dosyayı indiriniz ve cfg dosyası yanına koyunuz.
 
 Örnek çıktı:
 
